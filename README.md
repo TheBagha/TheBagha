@@ -1,5 +1,11 @@
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F51202&center=true&vCenter=true&width=600&lines=Eai%2C+eu+sou+o+TheBagha;Estudante+de+Desenvolvimento+de+Sistemas;Python+%7C+Git+%7C+GitHub;Evoluindo+um+commit+por+dia)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
 # Eai, eu sou Gabriel Marques
 
 Estudante de Desenvolvimento de Sistemas  
