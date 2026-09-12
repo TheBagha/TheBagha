@@ -1,6 +1,6 @@
 <div align="center">
 
-# eai, eu sou o TheBagha ⚡
+# Eai, eu sou Gabriel Marques
 
 Estudante de Desenvolvimento de Sistemas  
 Focando em Python, GitHub, interfaces e projetos com IA
@@ -37,10 +37,7 @@ Focando em Python, GitHub, interfaces e projetos com IA
 ## 📌 projetos
 
 - [`daily-python`](https://github.com/TheBagha/daily-python) — minha evolução diária em Python
-- `sofia` — assistente pessoal com IA
-- `netshield-escolar` — interface de segurança escolar
-- pequenos projetos em Python
-
+  
 ---
 
 ## 📊 status
