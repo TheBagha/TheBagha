@@ -39,18 +39,17 @@ Focando em Python, GitHub, interfaces e projetos com IA
 - [`daily-python`](https://github.com/TheBagha/daily-python) — minha evolução diária em Python
   
 ---
-
+<!--
 ## 📊 status
 
 <div align="center">
 
-![TheBagha GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBagha&show_icons=true&theme=tokyonight&hide_border=true)
+![TheBagha GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBagha&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBagha&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBagha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
-
----
+-->
 
 ## 🎯 meta
 
